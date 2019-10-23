@@ -1,6 +1,6 @@
 {
   "description": "Module for handling Adapt assets",
-  "homepage": "https://github.com/adapt-security/adapt-authoring-asset",
+  "homepage": "https://github.com/dancgray/adapt-authoring-asset",
   "main": "index.js",
   "name": "adapt-authoring-asset",
   "version": "0.0.1",
