@@ -1,8 +1,8 @@
 {
   "description": "Module for handling Adapt assets",
-  "homepage": "https://github.com/adapt-security/adapt-authoring-assets",
+  "homepage": "https://github.com/dancgray/adapt-authoring-asset",
   "main": "index.js",
-  "name": "adapt-authoring-assets",
+  "name": "adapt-authoring-asset",
   "version": "0.0.1",
   "adapt_authoring": {
     "module": true,
@@ -15,7 +15,7 @@
     }
   },
   "dependencies": {
-    "adapt-authoring-core": "git+https://github.com/adapt-security/adapt-authoring.git",
+    "adapt-authoring-core": "git+https://github.com/dancgray/adapt-authoring.git",
     "fs-extra": "8.1.0"
   }
 }
