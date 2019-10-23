@@ -7,15 +7,10 @@
   "adapt_authoring": {
     "module": true,
     "documentation": {
-      "enable": true,
-      "includes": {
-        "source": "lib/*",
-        "docs": "docs/*"
-      }
+      "enable": true
     }
   },
   "dependencies": {
-    "adapt-authoring-core": "git+https://github.com/dancgray/adapt-authoring.git",
-    "fs-extra": "8.1.0"
+    "adapt-authoring-core": "git+https://github.com/adapt-security/adapt-authoring-core.git"
   }
 }
