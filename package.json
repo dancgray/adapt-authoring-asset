@@ -1,0 +1,21 @@
+{
+  "description": "Module for handling Adapt assets",
+  "homepage": "https://github.com/adapt-security/adapt-authoring-assets",
+  "main": "index.js",
+  "name": "adapt-authoring-assets",
+  "version": "0.0.1",
+  "adapt_authoring": {
+    "module": true,
+    "documentation": {
+      "enable": true,
+      "includes": {
+        "source": "lib/*",
+        "docs": "docs/*"
+      }
+    }
+  },
+  "dependencies": {
+    "adapt-authoring-core": "git+https://github.com/adapt-security/adapt-authoring.git",
+    "fs-extra": "8.1.0"
+  }
+}
